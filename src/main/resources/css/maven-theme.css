@@ -14,7 +14,7 @@ body, td, select, input, li{
   font-size: 13px;
 }
 
-code{
+code {
   font-family: Courier, monospace;
   font-size: 13px;
 }
@@ -101,6 +101,20 @@ p {
 
 .source {
     background-color: #0F0F0F;
+}
+
+.methodName {
+  color: #FFC66D;
+  font-weight: bold;
+}
+
+.parentheses {
+  font-weight: bold;
+}
+
+.comment {
+  color: #999988;
+  font-style: italic;
 }
 
 .errormark, .warningmark, .donemark, .infomark {
