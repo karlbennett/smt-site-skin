@@ -9,7 +9,7 @@
 
     <name>smt-site-skin</name>
 
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/karlbennett/smt-site-skin</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
