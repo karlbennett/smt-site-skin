@@ -541,6 +541,7 @@
 <body class="composite">
 <div id="wrapper">
     <div id="header">
+        <div class="xright">#links( $decoration.body.links )#publishDate( "right" $decoration.publishDate $decoration.version )</div>
         <div id="banner">
             #banner( $decoration.bannerLeft "bannerLeft" )
             #banner( $decoration.bannerRight "bannerRight" )
@@ -550,7 +551,6 @@
         </div>
         <div id="breadcrumbs">
             #publishDate( "left" $decoration.publishDate $decoration.version )
-            <div class="xright">#links( $decoration.body.links )#publishDate( "right" $decoration.publishDate $decoration.version )</div>
             <div class="clear">
                 <hr/>
             </div>
