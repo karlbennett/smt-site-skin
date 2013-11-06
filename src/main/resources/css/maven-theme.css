@@ -103,9 +103,26 @@ p {
     background-color: #0F0F0F;
 }
 
+.className {
+    color: #FFC66D;
+    font-weight: bold;
+}
+
+.annotation {
+    color: #BBB529;
+}
+
 .methodName {
   color: #FFC66D;
   font-weight: bold;
+}
+
+.keyWord {
+    color: #CB772F;
+}
+
+.primitive {
+    color: #6897BB;
 }
 
 .parentheses {
