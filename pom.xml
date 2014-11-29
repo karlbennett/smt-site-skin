@@ -9,7 +9,7 @@
 
     <name>smt-site-skin</name>
 
-    <url>https://github.com/karlbennett/smt-site-skin</url>
+    <url>https://github.com/shiver-me-timbers/smt-site-skin</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -27,7 +27,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:karlbennett/${project.artifactId}.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:shiver-me-timbers/${project.artifactId}.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 </project>
